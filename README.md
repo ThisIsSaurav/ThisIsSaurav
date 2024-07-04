@@ -1,7 +1,6 @@
 - 👋 Hi, I’m Saurav Bisht
-- 👀 I’m interested in Full Stack Web Development
-- 🌱 I’m currently learning MERN
-- 💞️ I’m looking to collaborate on Development
+- 👀 I’m interested in Data Analytics
+- 🌱 I’m currently learning data exploration.
 - 📫 How to reach me sauravbisht0007@gmail.com
 
 
